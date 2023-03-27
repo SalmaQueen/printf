@@ -1,21 +1,21 @@
 
 ## _printf()
 
-The printf project is a collaborative project between El mahdi benrami and  Olawumi Oderanti who are students of Software Engineering at ALX.
+The printf project is a collaborative project between Salma Mohumed and  Iroka Ugochukwu who are students of Software Engineering at ALX.
 
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language and this contains some of the basic features and functions found in the manual 3 of "printf".
 
 
 ## Collaborators
 This project is a two-man team of team members:
-- [EL MAHDI BENRAMI](https://github.com/elmahdirami535).
-- [Olawumi Oderanti](https://github.com/SDEVFolakemi).
+- [EL MAHDI BENRAMI](https://github.com/salmaQueen).
+- [Olawumi Oderanti](https://github.com/bigavrii).
 
 
 
 
 ### Authors
-El mahdi benrami and  Olawumi Oderanti
+Salma Mohumed and  Iroka Ugochukwu
 
 ------------
 
@@ -79,4 +79,4 @@ d, i	The argument int is converted to a signed decimal notation. If precision is
 
 ### End
 
-Benrami & Oderanti @ ALX software engineering programme 2023.
+salma & Iroka @ ALX software engineering programme 2023.
