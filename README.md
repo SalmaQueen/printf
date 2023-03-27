@@ -8,8 +8,8 @@ This function named "_printf()" imitates the actual "printf()" command located i
 
 ## Collaborators
 This project is a two-man team of team members:
-- [EL MAHDI BENRAMI](https://github.com/salmaQueen).
-- [Olawumi Oderanti](https://github.com/bigavrii).
+- [Salma Mohamed](https://github.com/salmaQueen).
+- [Iroka Ugochukwu](https://github.com/bigavrii).
 
 
 
