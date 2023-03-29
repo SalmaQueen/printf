@@ -13,9 +13,8 @@ This project is a two-man team of team members:
 
 
 
-
 ### Authors
-Salma Mohumed and  Iroka Ugochukwu
+Salma Mohumed and Iroka Ugochukwu
 
 ------------
 
